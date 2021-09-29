@@ -1,4 +1,4 @@
-## COVID-19-Vaccine-Willingness-and-Hesitancy-among-Residents-in-Qatar-A-Quantitative-Analysis-based
+## COVID-19 Vaccine Willingness and Hesitancy among Residents in Qatar: a Quantitative Analysis based on Machine Learning
 A survey was done among the residents and citizens in the state of Qatar where respondents from various age, gender, nationality and profession participated. In this study, various demographic information along with their respective opinion regarding COVID-19 vaccine willingness and hesitancy were recorded. Based on the recorded data, common statistical and Machine Learning (ML) based analysis were performed to infer the relation between their other responses to their opinion about taking the vaccine.  
 
 ![Project Flowchart](https://github.com/Sakib1263/COVID-19-Vaccine-Willingness-and-Hesitancy-among-Residents-in-Qatar/blob/main/Documents/Images/Image%201.jpeg "Project Flowchart")   
