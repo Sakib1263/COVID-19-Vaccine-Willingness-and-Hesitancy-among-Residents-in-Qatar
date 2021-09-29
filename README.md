@@ -27,3 +27,23 @@ Dominance Analysis (DA) also showed plausible and practical results for both Wil
 **Hesitancy DA Table**  
 ![DA for Hesitancy](https://github.com/Sakib1263/COVID-19-Vaccine-Willingness-and-Hesitancy-among-Residents-in-Qatar/blob/main/Documents/Images/Image%207.png "DA for Hesitancy")   
 The scope of this study comprises only of COVID-19 vaccines, and the initial and mid-stage of the vaccine process. This study can be expanded or replicated for other similar studies in order to determine the factors truly contributing for vaccine hesitancy among people of a certain region, nation or culture, and ML can be a great tool to optimize and automate the process.  
+
+
+## License
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+[MIT license](https://github.com/nibtehaz/MultiResUNet/blob/master/LICENSE)
+
+
+## Citation Request
+
+If you use ***PPG2ABP*** in your project, please cite the following paper
+
+```
+@article{ibtehaz2020ppg2abp,
+  title={PPG2ABP: Translating Photoplethysmogram (PPG) Signals to Arterial Blood Pressure (ABP) Waveforms using Fully Convolutional Neural Networks},
+  author={Ibtehaz, Nabil and Rahman, M Sohel},
+  journal={arXiv preprint arXiv:2005.01669},
+  year={2020}
+}
+```
