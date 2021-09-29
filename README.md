@@ -36,7 +36,6 @@ The scope of this study comprises only of COVID-19 vaccines, and the initial and
 [Apache 2.0 license](https://github.com/Sakib1263/COVID-19-Vaccine-Willingness-and-Hesitancy-among-Residents-in-Qatar/blob/main/LICENSE)  
 
 ## Citation Request
-
 If you use or follow this work, datasets or the machine learning pipeline in your project, please cite the following paper:  
 ```
 @article{doi:10.1080/10911359.2021.1973642,
@@ -49,7 +48,7 @@ pages = {1-24},
 year  = {2021},
 publisher = {Routledge},
 doi = {10.1080/10911359.2021.1973642},
-URL = { https://doi.org/10.1080/10911359.2021.1973642},
-eprint = { https://doi.org/10.1080/10911359.2021.1973642}
+URL = {https://doi.org/10.1080/10911359.2021.1973642},
+eprint = {https://doi.org/10.1080/10911359.2021.1973642}
 }
 ```
