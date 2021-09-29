@@ -1,4 +1,4 @@
-## COVID-19 Vaccine Willingness and Hesitancy among Residents in Qatar: a Quantitative Analysis based on Machine Learning  
+# COVID-19-Vaccine-Willingness-and-Hesitancy-among-Residents-in-Qatar-A-Quantitative-Analysis-based
 A survey was done among the residents and citizens in the state of Qatar where respondents from various age, gender, nationality and profession participated. In this study, various demographic information along with their respective opinion regarding COVID-19 vaccine willingness and hesitancy were recorded. Based on the recorded data, common statistical and Machine Learning (ML) based analysis were performed to infer the relation between their other responses to their opinion about taking the vaccine.  
 
 ![Project Flowchart](https://github.com/Sakib1263/COVID-19-Vaccine-Willingness-and-Hesitancy-among-Residents-in-Qatar/blob/main/Documents/Images/Image%201.jpeg "Project Flowchart")   
@@ -28,32 +28,18 @@ Dominance Analysis (DA) also showed plausible and practical results for both Wil
 ![DA for Hesitancy](https://github.com/Sakib1263/COVID-19-Vaccine-Willingness-and-Hesitancy-among-Residents-in-Qatar/blob/main/Documents/Images/Image%207.png "DA for Hesitancy")   
 The scope of this study comprises only of COVID-19 vaccines, and the initial and mid-stage of the vaccine process. This study can be expanded or replicated for other similar studies in order to determine the factors truly contributing for vaccine hesitancy among people of a certain region, nation or culture, and ML can be a great tool to optimize and automate the process.  
 
+## License   
+[Apache 2.0 license](https://github.com/Sakib1263/COVID-19-Vaccine-Willingness-and-Hesitancy-among-Residents-in-Qatar/blob/main/LICENSE)  
 
-## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+## Citation Request
 
-[MIT license](https://github.com/nibtehaz/MultiResUNet/blob/master/LICENSE)
-
-
-## Citation Request  
-If you use this work, machine learning pipeline or the dataset in your project, please cite the following paper:  
+If you use ***PPG2ABP*** in your project, please cite the following paper
 
 ```
-@article{doi:10.1080/10911359.2021.1973642,
-author = {Muhammad Hafizh and Yousif Badri and Sakib Mahmud and Amir Hafez and Pilsung Choe},
-title = {COVID-19 vaccine willingness and hesitancy among residents in Qatar: a quantitative analysis based on machine learning},
-journal = {Journal of Human Behavior in the Social Environment},
-volume = {0},
-number = {0},
-pages = {1-24},
-year  = {2021},
-publisher = {Routledge},
-doi = {10.1080/10911359.2021.1973642},
-URL = { 
-        https://doi.org/10.1080/10911359.2021.1973642 
-},
-eprint = { 
-        https://doi.org/10.1080/10911359.2021.1973642 
-}
+@article{ibtehaz2020ppg2abp,
+  title={PPG2ABP: Translating Photoplethysmogram (PPG) Signals to Arterial Blood Pressure (ABP) Waveforms using Fully Convolutional Neural Networks},
+  author={Ibtehaz, Nabil and Rahman, M Sohel},
+  journal={arXiv preprint arXiv:2005.01669},
+  year={2020}
 }
 ```
