@@ -37,13 +37,19 @@ The scope of this study comprises only of COVID-19 vaccines, and the initial and
 
 ## Citation Request
 
-If you use ***PPG2ABP*** in your project, please cite the following paper
-
+If you use or follow this work, datasets or the machine learning pipeline in your project, please cite the following paper:  
 ```
-@article{ibtehaz2020ppg2abp,
-  title={PPG2ABP: Translating Photoplethysmogram (PPG) Signals to Arterial Blood Pressure (ABP) Waveforms using Fully Convolutional Neural Networks},
-  author={Ibtehaz, Nabil and Rahman, M Sohel},
-  journal={arXiv preprint arXiv:2005.01669},
-  year={2020}
+@article{doi:10.1080/10911359.2021.1973642,
+author = {Muhammad Hafizh and Yousif Badri and Sakib Mahmud and Amir Hafez and Pilsung Choe},
+title = {COVID-19 vaccine willingness and hesitancy among residents in Qatar: a quantitative analysis based on machine learning},
+journal = {Journal of Human Behavior in the Social Environment},
+volume = {0},
+number = {0},
+pages = {1-24},
+year  = {2021},
+publisher = {Routledge},
+doi = {10.1080/10911359.2021.1973642},
+URL = { https://doi.org/10.1080/10911359.2021.1973642},
+eprint = { https://doi.org/10.1080/10911359.2021.1973642}
 }
 ```
